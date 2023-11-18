@@ -1,0 +1,32 @@
+Nama  : Dicky Ahmad Reza Nurfauzy
+NIM   : 22416255201104
+Kelas : IF22C
+UTS Pemograman Web
+
+SUB-CMK-1
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+   jawaban : Framework dalam pengembangan aplikasi adalah seperti kerangka kerja atau panduan yang membantu pengembang membuat aplikasi
+			 lebih mudah dan efisien. Framework menyediakan aturan dan alat yang membantu pengembang dalam mengorganisir dan membuat aplikasi
+			 tanpa harus repot mengurus detail - detail teknis yang sama setiap waktu. 
+			 contoh : laravel untuk pengembangan aplikasi web dengan menggunakan bahasa pemograman PHP. ini adalah alat yang membantu
+			 pengembang membuat situs web dengan cepat tanpa harus membuat semua kodenya dari awal.
+			
+SUB-CPMK-2
+2. 	1. Sebutkan tema proyek yang sedang digarap!
+	    jawaban : - instansi perusahaan(Aplikasi Help Center/PPID - Pengajuan complain kerusakan,dsb)
+	2. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+	    jawaban : - Fahad Abdul Azis 		 : Database
+				  - Reno Al Fahmi Adhi Wiguna : Analisis Laporan
+				  - Dicky Ahmad Reza Nurfauzy : coding
+	3. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! 
+	   (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+ 	   jawaban	: jadi setelah kita wawancara bersama client,permasalahan yang kita dapat
+	   adalah client meminta agar aplikasinya menampilkan fitur supplier barang, store, peduli sosial, link donasi dan about cv.
+	   adapun penjelasan didalam fitur fitur tersebut sebagai berikut:
+	   - supplier barang 			 : Supplier adalah pihak perorangan atau bisnis yang memasuk atau menyuplai produk barang atau jasa
+									   kepada bisnis lain baik itu ke perorangan atau perusahaan.
+	   - store			 			 : berisi barang yang mereka jual, dan setelah customer check out barang tersebut,terdapat metode pembayaran.
+	   - peduli sosial & link donasi : client menginginkan bentuk sosial / kegiatan sosial kisah karawang, adapun link donasi nya yang di dalam nya
+									   ada bentuk payment.
+	   - about cv		 			 : berisi tentang deksripsi cv client.
+	   
